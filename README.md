@@ -50,25 +50,7 @@ Full-Stack Developer focused on building responsive web apps, AI-powered systems
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="graduation" width="22" /> Education
 
-### 🎓 Master of Computer Applications (MCA)
-**Vidyasagar University, West Bengal, India**
-
-- Duration: Nov 2022 – Jun 2024
-- CGPA: 8.17
-
-### 🎓 Bachelor of Computer Applications (BCA)
-**Panskura Banamali College, West Bengal, India**
-
-- Duration: Jun 2019 – Jun 2022
-- CGPA: 8.68
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Information.png" alt="info" width="20" /> Additional Information
-
-- 🌍 Languages: English, Bengali, Hindi
-- 🏅 Certifications: Web Development (Udemy), Angular, React.js
-- 💡 Interests: Full-Stack Development, AI Applications, API Engineering, Software Architecture, Cybersecurity
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="chart" width="22" /> GitHub Activity
 
