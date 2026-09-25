@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🖥️ ANJAN MAITY
+# 💻 ANJAN MAITY
 
-### `FULL-STACK DEVELOPER` · `AI ENGINEER` · `FREELANCING DEVELOPER`
+### Full-Stack Developer • GenAI Developer • Freelance Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;GenAI+%26+RAG+Developer;Freelance+Developer" alt="Typing intro" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnjanGitHub4-181717?style=for-the-badge&logo=github)](https://github.com/AnjanGitHub4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjan%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjan-maity-1b6457238/)
@@ -14,12 +16,12 @@
 ┌──[anjan@kali]─[~/workspace]
 └─$ whoami
 Anjan Maity
-Full-Stack Developer • AI Engineer • Software Developer
+Full-Stack Developer • GenAI Developer • Freelance Developer
 ```
 
-## 🔐 `~/summary`
+## 🧠 `~/summary`
 
-Full-Stack Developer focused on building responsive web apps, AI-powered systems, and secure digital products. Skilled in React.js, Angular, TypeScript, Node.js, Python, MySQL, MongoDB, and REST APIs. Passionate about clean architecture, user-focused experiences, and delivering reliable software with modern tools.
+Full-Stack Developer and GenAI enthusiast building responsive web applications, AI-powered systems, and business-ready digital products. Skilled in React.js, Angular, TypeScript, Node.js, Python, MySQL, MongoDB, and REST APIs. Focused on clean architecture, practical AI implementation, and reliable product delivery for freelance and professional work.
 
 ## 🧰 `~/skills`
 
@@ -30,10 +32,10 @@ Full-Stack Developer focused on building responsive web apps, AI-powered systems
 ├── frontend
 ├── backend
 ├── databases
-├── languages
-├── ai_and_ml
-├── devops_and_tools
-└── security
+├── primary_languages
+├── genai_and_ml
+├── tools
+└── education
 ```
 
 ### 🎨 `frontend/`
@@ -42,17 +44,17 @@ Full-Stack Developer focused on building responsive web apps, AI-powered systems
 
 ### ⚙️ `backend/`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ `databases/`
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💻 `languages/`
+### 💻 `primary_languages/`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🤖 `ai_and_ml/`
+### 🤖 `genai_and_ml/`
 
 ```text
 LLMs • RAG • Prompt Engineering • AI Agents
@@ -60,13 +62,31 @@ LLM API Integration • Vector Search • AI-powered APIs
 Python / NumPy • Groq • OpenAI APIs • AI Application Architecture
 ```
 
-### 🛠️ `devops_and_tools/`
+### 🛠️ `tools/`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ```text
-Linux • Docker • Nginx • VPS • REST / HTTP • cURL • SSH • CI/CD
+Linux • Nginx • VPS • REST / HTTP • cURL • SSH • CI/CD
 ```
+
+## 🎓 `~/education`
+
+### MCA
+**Vidyasagar University, West Bengal, India**
+- Duration: Nov 2022 – Jun 2024
+- CGPA: 8.17
+
+### BCA
+**Panskura Banamali College, West Bengal, India**
+- Duration: Jun 2019 – Jun 2022
+- CGPA: 8.68
+
+## ℹ️ `~/additional_information`
+
+- 🌍 Languages: English, Bengali, Hindi
+- 🏅 Certifications: Web Development (Udemy), Angular, React.js
+- 💡 Interests: Full-Stack Development, AI Applications, API Engineering, Software Architecture
 
 ## 📊 `~/github_activity`
 
