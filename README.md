@@ -4,7 +4,12 @@
 
 ### Full-Stack Developer • GenAI Developer • Freelance Developer
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+RAG+Developer;Laravel+%7C+React+%7C+Node.js;Python+%7C+SQL+%7C+Cloud;Always+Building.+Always+Learning." />
+</p>
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;GenAI+%26+RAG+Developer;Freelance+Developer" alt="Typing intro" />
+-->
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnjanGitHub4-181717?style=for-the-badge&logo=github)](https://github.com/AnjanGitHub4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjan%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjan-maity-1b6457238/)
@@ -13,7 +18,7 @@
 </div>
 
 ```console
-┌──[anjan@kali]─[~/workspace]
+┌──[anjanGitHub4@dev]─[~/workspace]
 └─$ whoami
 Anjan Maity
 Full-Stack Developer • GenAI Developer • Freelance Developer
@@ -26,7 +31,7 @@ Full-Stack Developer and GenAI enthusiast building responsive web applications, 
 ## 🧰 `~/skills`
 
 ```console
-┌─[root@kali]─[~/skills]
+┌─[anjanGitHub4@dev]─[~/skills]
 └─$ tree -L 2
 .
 ├── frontend
@@ -35,7 +40,6 @@ Full-Stack Developer and GenAI enthusiast building responsive web applications, 
 ├── primary_languages
 ├── genai_and_ml
 ├── tools
-└── education
 ```
 
 ### 🎨 `frontend/`
@@ -70,24 +74,6 @@ Python / NumPy • Groq • OpenAI APIs • AI Application Architecture
 Linux • Nginx • VPS • REST / HTTP • cURL • SSH • CI/CD
 ```
 
-## 🎓 `~/education`
-
-### MCA
-**Vidyasagar University, West Bengal, India**
-- Duration: Nov 2022 – Jun 2024
-- CGPA: 8.17
-
-### BCA
-**Panskura Banamali College, West Bengal, India**
-- Duration: Jun 2019 – Jun 2022
-- CGPA: 8.68
-
-## ℹ️ `~/additional_information`
-
-- 🌍 Languages: English, Bengali, Hindi
-- 🏅 Certifications: Web Development (Udemy), Angular, React.js
-- 💡 Interests: Full-Stack Development, AI Applications, API Engineering, Software Architecture
-
 ## 📊 `~/github_activity`
 
 <div align="center">
@@ -108,7 +94,7 @@ Linux • Nginx • VPS • REST / HTTP • cURL • SSH • CI/CD
 ## 📡 `~/connect`
 
 ```console
-┌──[anjan@kali]─[~/connect]
+┌──[anjanGitHub4@dev]─[~/connect]
 └─$ ./connect.sh
 GitHub   → github.com/AnjanGitHub4
 LinkedIn → linkedin.com/in/anjan-maity-1b6457238/
