@@ -84,20 +84,22 @@ A database-driven platform with user management, paper submission, review workfl
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnjanGitHub4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanGitHub4&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="180" alt="Anjan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AnjanGitHub4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
+<img height="180" alt="Anjan's GitHub streak" src="https://streak-stats.demolab.com?user=AnjanGitHub4&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanGitHub4&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<br />
+
+<img alt="Anjan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanGitHub4&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
 
 </div>
 
 ---
 
-## 📈 Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanGitHub4&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img width="95%" alt="Anjan's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanGitHub4&theme=tokyo-night&hide_border=true&area=true&custom_title=Anjan%27s%20GitHub%20Activity" />
 
 </div>
 
