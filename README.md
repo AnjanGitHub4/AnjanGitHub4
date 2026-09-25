@@ -5,7 +5,7 @@
     width="35"
     alt="Waving hand"
   />
-  Hi There,
+  Hi THERE,
   <br />
   <code>💻 ANJAN MAITY</code>
 </h1>
@@ -75,8 +75,9 @@ Full-Stack Developer and GenAI enthusiast building responsive web applications, 
 
 ###  `genai_and_ml/`
 
-```bash
+```shell
 $ tail -f learning.log
+
 [+] GenAI & LLMs
 [+] AI Agents & RAG
 [+] LLM API Integration
@@ -84,8 +85,8 @@ $ tail -f learning.log
 [+] OpenAI APIs & Groq
 [+] RAG Architecture
 [+] AI SaaS Application
-```
 
+```
 
 <!--
 ### 🤖 `genai_and_ml/`
