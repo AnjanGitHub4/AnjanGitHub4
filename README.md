@@ -2,7 +2,7 @@
 
 # 🖥️ ANJAN MAITY
 
-### `FULL-STACK DEVELOPER` · `AI ENGINEER` · `SOFTWARE DEVELOPER`
+### `FULL-STACK DEVELOPER` · `AI ENGINEER` · `FREELANCING DEVELOPER`
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnjanGitHub4-181717?style=for-the-badge&logo=github)](https://github.com/AnjanGitHub4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjan%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjan-maity-1b6457238/)
@@ -66,14 +66,6 @@ Python / NumPy • Groq • OpenAI APIs • AI Application Architecture
 
 ```text
 Linux • Docker • Nginx • VPS • REST / HTTP • cURL • SSH • CI/CD
-```
-
-### 🛡️ `security/`
-
-```text
-Networking • Linux Security • Web Security • OWASP
-Ethical Hacking • Penetration Testing • API Security
-Authentication / Authorization
 ```
 
 ## 📊 `~/github_activity`
