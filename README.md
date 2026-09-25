@@ -1,369 +1,117 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AnjanGitHub4/AnjanGitHub4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 👋 Hi, I'm Anjan Maity
 
-# `> whoami`
+### 💻 Full-Stack Developer · 🤖 AI Engineer · 🛡️ Software Developer
 
-```text
-┌──[anjanGitHub4@dev]─[~/workspace]
-└─$ whoami
+[![GitHub](https://img.shields.io/badge/GitHub-AnjanGitHub4-181717?style=for-the-badge&logo=github)](https://github.com/AnjanGitHub4)
+[![Profile Views](https://komarev.com/ghpvc/?username=AnjanGitHub4&color=brightgreen&style=for-the-badge)](https://github.com/AnjanGitHub4)
 
-Anjan Maity
-Full-Stack Developer • AI Engineer • Software Developer
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+RAG+Developer;Laravel+%7C+React+%7C+Node.js;Python+%7C+SQL+%7C+Cloud;Always+Building.+Always+Learning." />
-</p>
+</div>
 
 ---
 
-## `~/about`
+## 🚀 About Me
 
-```bash
-$ cat about.txt
-```
+I'm a software developer focused on building real-world products, scalable web applications, AI-powered systems, and developer tools.
 
-> I'm a software developer focused on building real-world products,
-> scalable web applications, AI-powered systems and developer tools.
+- 🔭 Building **AI-powered applications and RAG systems**
+- 🌱 Learning **System Design, Machine Learning, Cloud, and Cybersecurity**
+- 🧠 Interested in **LLMs, backend architecture, APIs, and database engineering**
+- ⚡ Engineering principle: **Build → Break → Learn → Repeat**
 
-```text
-FOCUS
-├── Full-Stack Development
-├── AI / LLM / RAG Systems
-├── Backend Architecture
-├── API Design
-├── Database Engineering
-├── Data Analytics
-├── Mobile Development
-└── Cybersecurity & Ethical Hacking
-```
+## 🧰 Tech Stack
 
----
+### 💻 Languages
 
-## `~/tech-stack`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-```bash
-$ ls -la ./skills
-```
+### 🎨 Frontend
 
-### `LANGUAGES`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-```text
-JavaScript    ████████████████████
-TypeScript    ██████████████████░░
-Python        █████████████████░░░
-Java          ███████████████░░░░░
-PHP           ███████████████░░░░░
-SQL           ███████████████████░
-```
+### ⚙️ Backend & Databases
 
-### `FRONTEND`
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-```text
-React.js
-Next.js
-Angular
-HTML5
-CSS3
-Tailwind CSS
-Vite
-TanStack Query
-shadcn/ui
-```
+### 🤖 AI & Tools
 
-### `BACKEND`
-
-```text
-Laravel
-Node.js
-Express.js
-Django
-REST APIs
-PHP
-Python
-```
-
-### `DATABASE`
-
-```text
-MySQL
-PostgreSQL
-SQL Server
-MongoDB
-Eloquent ORM
-Mongoose
-Database Design
-Indexing
-Query Optimization
-```
-
-### `AI / MACHINE LEARNING`
-
-```text
-LLMs
-RAG
-Prompt Engineering
-AI Agents
-LLM API Integration
-Vector Search
-AI-powered APIs
-Python / NumPy
-Groq
-OpenAI APIs
-AI Application Architecture
-```
-
-### `MOBILE`
-
-```text
-Android
-Java
-Kotlin
-React Native
-Flutter
-Ionic
-```
-
-### `DEVOPS / TOOLS`
-
-```text
-Linux
-Git
-GitHub
-Docker
-Nginx
-VPS
-REST / HTTP
-cURL
-SSH
-CI/CD
-```
-
-### `SECURITY`
-
-```text
-Networking
-Linux Security
-Web Security
-OWASP
-Ethical Hacking
-Penetration Testing
-API Security
-Authentication / Authorization
-```
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## `~/current-lab`
+## 🌟 Featured Projects
 
-```bash
-$ ps aux | grep "current_projects"
-```
+### ✈️ AI Travel Assistant
 
-```text
-[01] AI-powered applications
-[02] RAG + LLM systems
-[03] Laravel + React applications
-[04] REST API architecture
-[05] Database optimization
-[06] Full-stack SaaS products
-[07] AI content generation workflows
-[08] Cybersecurity research
-```
+**Laravel · React · TanStack Query · Groq · RAG**
 
----
+AI conversational interface with dynamic database querying, authentication-aware responses, query planning, schema-aware AI, and prompt-injection controls.
 
-## `~/architecture`
+### 🗳️ Online Voting System
 
-```text
-                       ┌─────────────────────┐
-                       │      CLIENT         │
-                       │ React / Next /      │
-                       │ Angular / Mobile    │
-                       └──────────┬──────────┘
-                                  │
-                                  ▼
-                       ┌─────────────────────┐
-                       │      API LAYER      │
-                       │ REST / Auth /       │
-                       │ Validation          │
-                       └──────────┬──────────┘
-                                  │
-                    ┌─────────────┴─────────────┐
-                    ▼                           ▼
-          ┌──────────────────┐        ┌──────────────────┐
-          │    BACKEND          │        │    AI ENGINE         │
-          │ Laravel / Node      │        │ LLM / RAG /          │
-          │ Django / Python     │        │ Agents               │
-          └────────┬─────────┘        └────────┬─────────┘
-                   │                           │
-                   └────────────┬──────────────┘
-                                ▼
-                       ┌─────────────────────┐
-                       │      DATABASE       │
-                       │ MySQL / PostgreSQL  │
-                       │ MongoDB / SQLServer │
-                       └─────────────────────┘
-```
+**PHP · Laravel · MySQL · React**
+
+Secure voting workflow with authentication, authorization, database relationships, and REST API architecture.
+
+### 📚 Journal Paper Submission System
+
+**Web Application · REST API · Database**
+
+A database-driven platform with user management, paper submission, review workflows, and role-based access control.
 
 ---
 
-## `~/featured-projects`
+## 📊 GitHub Stats
 
-```bash
-$ find ./projects -maxdepth 1 -type d
-```
+<div align="center">
 
-### `01. AI Travel Assistant`
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnjanGitHub4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanGitHub4&theme=tokyonight&hide_border=true&border_radius=12" />
 
-```text
-Stack:
-Laravel + React + TanStack Query + Groq + RAG
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanGitHub4&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
-Features:
-├── AI conversational interface
-├── Dynamic database querying
-├── Authentication-aware responses
-├── Query planning
-├── Eloquent-based data access
-├── Schema-aware AI
-└── Hallucination / prompt-injection controls
-```
-
-### `02. Online Voting System`
-
-```text
-Stack:
-PHP / Laravel / MySQL / React
-
-Focus:
-├── Authentication
-├── Authorization
-├── Voting workflow
-├── Database relationships
-└── Secure API architecture
-```
-
-### `03. Journal Paper Submission System`
-
-```text
-Stack:
-Web Application + REST API + Database
-
-Features:
-├── User management
-├── Paper submission
-├── Review workflow
-├── Role-based access
-└── Database-driven architecture
-```
+</div>
 
 ---
 
-## `~/engineering-principles`
+## 📈 Activity
 
-```text
-01. Understand before implementing.
-02. Prefer simple architecture over unnecessary complexity.
-03. Security is part of the design.
-04. APIs should be predictable and maintainable.
-05. Database queries should be intentional.
-06. AI systems need guardrails.
-07. Don't just make it work — understand why it works.
-08. Build → Break → Debug → Improve.
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanGitHub4&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
-## `~/learning`
+## 📫 Connect With Me
 
-```bash
-$ tail -f learning.log
-```
+<div align="center">
 
-```text
-[+] System Design
-[+] Advanced SQL
-[+] Data Analytics
-[+] Machine Learning
-[+] AI Engineering
-[+] RAG Architecture
-[+] Networking
-[+] Cybersecurity
-[+] Cloud / DevOps
-[+] Advanced DSA
-```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjanGitHub4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjan-maity-1b645723/)
 
----
+### 💡 “The best way to understand technology is to build something with it.”
 
-## `~/github-stats`
+**BUILD • BREAK • LEARN • REPEAT** 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjanGitHub4&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanGitHub4&theme=chartreuse-dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanGitHub4&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-## `~/activity`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanGitHub4&theme=github-compact&hide_border=true" width="95%"/>
-</p>
-
----
-
-## `~/contact`
-
-```bash
-$ ./connect.sh
-```
-
-```text
-GitHub   → github.com/AnjanGitHub4
-LinkedIn → linkedin.com/in/anjan-maity-1b6457238/
-Email    → YOUR_EMAIL
-```
-
----
-
-## `~/terminal`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   "The best way to understand technology             │
-│    is to build something with it."                   │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-```bash
-anjan@dev:~$ echo "Keep building."
-Keep building.
-```
-
----
-
-<p align="center">
-
-```text
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝
-╚═════╝ ╚══════╝  ╚═══╝
-```
-
-**`BUILD • BREAK • LEARN • REPEAT`**
-
-</p>
-
+</div>
