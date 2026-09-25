@@ -2,6 +2,7 @@
 
 <!--
 **AnjanGitHub4/AnjanGitHub4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # `> whoami`
 
@@ -194,9 +195,9 @@ $ ps aux | grep "current_projects"
                     ┌─────────────┴─────────────┐
                     ▼                           ▼
           ┌──────────────────┐        ┌──────────────────┐
-          │    BACKEND       │        │    AI ENGINE     │
-          │ Laravel / Node   │        │ LLM / RAG /      │
-          │ Django / Python  │        │ Agents           │
+          │    BACKEND          │        │    AI ENGINE         │
+          │ Laravel / Node      │        │ LLM / RAG /          │
+          │ Django / Python     │        │ Agents               │
           └────────┬─────────┘        └────────┬─────────┘
                    │                           │
                    └────────────┬──────────────┘
@@ -301,12 +302,12 @@ $ tail -f learning.log
 ## `~/github-stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjanGitHub4&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanGitHub4&theme=chartreuse-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanGitHub4&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -314,7 +315,7 @@ $ tail -f learning.log
 ## `~/activity`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjanGitHub4&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -326,8 +327,8 @@ $ ./connect.sh
 ```
 
 ```text
-GitHub   → github.com/YOUR_USERNAME
-LinkedIn → linkedin.com/in/YOUR_USERNAME
+GitHub   → github.com/AnjanGitHub4
+LinkedIn → linkedin.com/in/anjan-maity-1b6457238/
 Email    → YOUR_EMAIL
 ```
 
