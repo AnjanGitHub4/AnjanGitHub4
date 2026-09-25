@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Anjan Maity
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving" width="30" /> Anjan Maity
 
-### Full-Stack Developer · AI Engineer · Software Developer
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop" width="22" /> Full-Stack Developer • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Robots/Robot.png" alt="robot" width="22" /> AI Engineer • <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" alt="computer" width="22" /> Software Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnjanGitHub4-181717?style=for-the-badge&logo=github)](https://github.com/AnjanGitHub4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjan%20Maity-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjan-maity-1b6457238/)
@@ -10,13 +10,19 @@
 
 </div>
 
-## 👨‍💻 Professional Summary
+```bash
+$ whoami
+Anjan Maity
+Full-Stack Developer • AI Engineer • Software Developer
+```
 
-Full-Stack Developer with experience building responsive web applications and AI-powered solutions. Skilled in React.js, Angular, TypeScript, Node.js, Python, MySQL, MongoDB, REST APIs, and modern development tools. Passionate about writing clean, maintainable software, integrating reliable APIs, solving technical problems, and creating user-focused digital experiences.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="briefcase" width="22" /> Summary
 
-## 🧰 Technical Skills
+Full-Stack Developer focused on building responsive web apps, AI-powered systems, and secure digital products. Skilled in React.js, Angular, TypeScript, Node.js, Python, MySQL, MongoDB, and REST APIs. Passionate about clean architecture, user-focused experiences, and delivering reliable software with modern tools.
 
-### Frontend
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="keyboard" width="22" /> Tech Stack
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Mouse.png" alt="mouse" width="20" /> Frontend
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -25,7 +31,7 @@ Full-Stack Developer with experience building responsive web applications and AI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend, Languages & Databases
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Server.png" alt="server" width="20" /> Backend / Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -35,7 +41,7 @@ Full-Stack Developer with experience building responsive web applications and AI
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Technologies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="toolbox" width="20" /> Tools
 
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,25 +50,27 @@ Full-Stack Developer with experience building responsive web applications and AI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-## 🎓 Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="graduation" width="22" /> Education
 
-### Master of Computer Applications (MCA)
+### 🎓 Master of Computer Applications (MCA)
+**Vidyasagar University, West Bengal, India**
 
-**Vidyasagar University, West Bengal, India** · *Nov 2022 – Jun 2024*  
-**CGPA: 8.17**
+- Duration: Nov 2022 – Jun 2024
+- CGPA: 8.17
 
-### Bachelor of Computer Applications (BCA)
+### 🎓 Bachelor of Computer Applications (BCA)
+**Panskura Banamali College, West Bengal, India**
 
-**Panskura Banamali College, West Bengal, India** · *Jun 2019 – Jun 2022*  
-**CGPA: 8.68**
+- Duration: Jun 2019 – Jun 2022
+- CGPA: 8.68
 
-## 🌍 Additional Information
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Information.png" alt="info" width="20" /> Additional Information
 
-- **Languages:** English, Bengali, Hindi
-- **Certifications:** Web Development — Udemy · Angular · React.js
-- **Interests:** Full-Stack Development, AI Applications, API Engineering, Software Architecture, and Cybersecurity
+- 🌍 Languages: English, Bengali, Hindi
+- 🏅 Certifications: Web Development (Udemy), Angular, React.js
+- 💡 Interests: Full-Stack Development, AI Applications, API Engineering, Software Architecture, Cybersecurity
 
-## 📊 GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="chart" width="22" /> GitHub Activity
 
 <div align="center">
 
@@ -83,8 +91,8 @@ Full-Stack Developer with experience building responsive web applications and AI
 
 <div align="center">
 
-### 💡 Build with purpose. Learn continuously. Improve every day.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="bulb" width="20" /> Build with purpose. Learn continuously. Improve every day.
 
-**BUILD • BREAK • LEARN • REPEAT** 🚀
+**[ root@github ] $ echo "BUILD • BREAK • LEARN • REPEAT"**
 
 </div>
