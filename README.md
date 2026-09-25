@@ -12,46 +12,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Full-Stack Developer with professional experience building responsive web applications, AI-powered assistants, authentication systems, and business solutions. Skilled in React.js, Angular, TypeScript, Node.js, Python, MySQL, MongoDB, REST APIs, and modern development tools. Passionate about writing maintainable software, integrating reliable APIs, and creating clear, user-focused digital experiences.
-
-## 💼 Experience
-
-### Junior Software Developer — Aivista Technologies Private Limited, Kolkata
-
-**March 2025 – Present**
-
-- Develop and maintain web applications using Angular, TypeScript, PrimeNG, PrimeFlex CSS, and REST APIs.
-- Contribute to **ANU**, a live enterprise project focused on building a structured business portal with responsive interfaces and reliable data handling.
-- Built **Eva**, an AI-powered chatbot with a responsive interface, API integrations, voice-controlled workflows, and manual testing.
-- Implemented chatbot capabilities including product tracking, order placement, order history, budget management, and order cancellation.
-- Developed an OTP-based authentication system in Python with Twilio SMS verification, authentication, and authorization workflows.
-- Built an e-commerce application using Angular 19 with authentication, authorization, product search, cart management, product deletion, API integration, version control, and testing.
-
-## 🚀 Selected Projects
-
-### 🗳️ Online Voting System — VUTA
-
-**React.js · Express.js · MySQL · Sequelize · Bootstrap** · *Feb 2024 – May 2024*
-
-- Developed a secure web-based voting platform for university elections.
-- Implemented user-friendly voting workflows, efficient vote management, and structured database operations.
-
-[View project on GitHub →](https://github.com/ovs-vuta/ovs)
-
-### 📚 Journal Paper Submission System — JPSS
-
-**React.js · Express.js · MongoDB · Bootstrap** · *Aug 2023 – Jan 2024*
-
-- Developed a single-page application for academic journal submissions and review management.
-- Enabled authorized authors to submit papers and administrators to review submissions and notify authors by email.
-
-[View deployed project →](https://journal.debdevcs.org/)
-
-### 🤖 AI Travel Assistant
-
-**Laravel · React · TanStack Query · Groq · RAG**
-
-- Designed an AI conversational interface with authentication-aware responses, dynamic database querying, query planning, schema-aware responses, and prompt-injection controls.
+Full-Stack Developer with experience building responsive web applications and AI-powered solutions. Skilled in React.js, Angular, TypeScript, Node.js, Python, MySQL, MongoDB, REST APIs, and modern development tools. Passionate about writing clean, maintainable software, integrating reliable APIs, solving technical problems, and creating user-focused digital experiences.
 
 ## 🧰 Technical Skills
 
