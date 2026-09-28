@@ -7,7 +7,7 @@
   />
   Hi THERE,
   <br />
-  <code>I am 💻 ANJAN MAITY</code>
+  <code>I'm 💻 ANJAN MAITY</code>
 </h1>
 
 
